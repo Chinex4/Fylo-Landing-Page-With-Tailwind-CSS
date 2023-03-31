@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    .second-section{
+    background-image: url('images/bg-curve-mobile.svg');
+}
+}
